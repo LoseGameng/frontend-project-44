@@ -1,0 +1,24 @@
+{
+    "name": "@hexlet/code",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "(https://github.com/LoseGameng/frontend-project-44)",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "bin": {
+      "brain-games": "bin/brain-games.js",
+      "brain-even": "bin/brain-even.js"
+    },
+    "dependencies": {
+      "eslint-config-airbnb-base": "^15.0.0",
+      "eslint-plugin-import": "^2.27.5",
+      "readline-sync": "^1.4.10"
+    },
+    "devDependencies": {
+      "eslint": "^8.36.0"
+    }
+  }
